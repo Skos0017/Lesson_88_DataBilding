@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_88_DataBilding", "Lesson_88_DataBilding\Lesson_88_DataBilding.csproj", "{933B2434-CD39-42A7-A854-3EE0B4CCAF5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933B2434-CD39-42A7-A854-3EE0B4CCAF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933B2434-CD39-42A7-A854-3EE0B4CCAF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933B2434-CD39-42A7-A854-3EE0B4CCAF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933B2434-CD39-42A7-A854-3EE0B4CCAF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4716CA02-756C-4DFE-AFEA-D7EB0E1B2EDB}
+	EndGlobalSection
+EndGlobal
